@@ -17,7 +17,7 @@
 ## 👩‍🔬 Group Members
 
 **Principal Investigator**
-- [Prof. Richard Teague](https://github.com/richteague) — Assistant Professor, MIT EAPS (Kerr-McGee Development Chair) · [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/uxd2UZZ5QSGSqcI7i3llMQ)
+- [Prof. Richard Teague](https://github.com/richteague) — Assistant Professor, MIT EAPS (Kerr-McGee Development Chair) · [ADS](https://ui.adsabs.harvard.edu/public-libraries/uxd2UZZ5QSGSqcI7i3llMQ)
 
 **Postdoctoral Researchers**
 - [Dr. Jess Speedie](https://jspeedie.com/) — 51 Pegasi b Fellow; ALMA observations & disk dynamics · [ADS](https://ui.adsabs.harvard.edu/public-libraries/OOULjEiIR02eZGFIpVmyLQ)
