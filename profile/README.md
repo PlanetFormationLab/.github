@@ -29,7 +29,7 @@
 - [Isabella (Bella) Macias](https://www.linkedin.com/in/isabellamacias/) — Protoplanetary disk masses & evolution
 
 **Undergraduate Students**
-- Haedam Im - Radiative transfer modeling of exoALMA sources
+- Haedam Im — Radiative transfer modeling of exoALMA sources
 
 **MSRP Student**
 - [Kishor Baniya](https://github.com/kbaniya314) — Developing computational methods to characterize molecular emission and excitation conditions in protoplanetary disks
