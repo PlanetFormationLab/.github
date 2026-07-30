@@ -29,10 +29,10 @@
 - [Isabella (Bella) Macias](https://www.linkedin.com/in/isabellamacias/) — Protoplanetary disk masses & evolution
 
 **Undergraduate Students**
-- [Kaylee Barrera](https://kayleebarrera.github.io/) — Data-driven modeling of massive protoplanetary disks
-- Erin Cusson — Chemical complexity of protoplanetary disks
-- Marco Duraku — Exoplanet detection via diffraction imaging (Imperial College London exchange)
-- Maurielle Noto — Circumplanetary disk simulations & satellite-forming regions
+- Haedam Im - Radiative transfer modeling of exoALMA sources
+
+**MSRP Student**
+- [Kishor Baniya](https://github.com/kbaniya314) — Developing computational methods to characterize molecular emission and excitation conditions in protoplanetary disks
 
 For a full list of past members, see the [lab website](https://pfl.mit.edu/#members).
 
