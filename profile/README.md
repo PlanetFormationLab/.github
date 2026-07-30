@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pfl.mit.edu"><img src="https://pfl.mit.edu/brand/pfl-logo-light.png" alt="Planet Formation Lab Logo" width="300"/></a>
+  <a href="https://pfl.mit.edu"><img src="https://pfl.mit.edu/brand/pfl-logo-light.png" alt="Planet Formation Lab Logo" width="500"/></a>
 </p>
 
 <br>
