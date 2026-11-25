@@ -21,7 +21,6 @@
 
 **Postdoctoral Researchers**
 - [Dr. Jess Speedie](https://jspeedie.com/) — 51 Pegasi b Fellow; ALMA observations & disk dynamics · [ADS](https://ui.adsabs.harvard.edu/public-libraries/OOULjEiIR02eZGFIpVmyLQ)
-- Dr. Lisa Wölfer — Gas substructures & kinematics in protoplanetary disks · [ADS](https://ui.adsabs.harvard.edu/public-libraries/5Fr8rm_xSBifIeHFVc4DAg)
 
 **Graduate Students**
 - [Leah Albrow](http://lalbrow.github.io/) — ML & computer vision for astronomical imaging; 3D disk structure
